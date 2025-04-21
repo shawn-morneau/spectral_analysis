@@ -3,10 +3,16 @@
 /////Spectral Analysis Project/////
 ///////////////////////////////////
 
-This project is all done within Python's JupyterLab environment.
+This polar plot of the energy density spectrum is an example of the result of Spec_function_final
 
 <div align="center">
     <img src="figs/energy_density_polar_plot.png" width="600">
+</div>
+
+This plot shows the difference between the 1d spectrum of our calculations vs the pre-calculated cdip data
+
+<div align="center">
+    <img src="figs/Ed_calc_vs_cdip.png" width="600">
 </div>
 
 //Data//
