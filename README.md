@@ -17,9 +17,12 @@ This plot shows the difference between the 1d spectrum of our calculations vs th
 
 //Data//
     The data folder is used for housing downloaded data.
-    The data includes .nc files from the CDIP website, .csv files holding values from THREDDS, and .npz files holding values from THREDDS
+    The data includes .nc files from the CDIP website, .csv files holding values from THREDDS, and .npz files holding values from THREDDS.
+    Data in this folder is not yet added due to large file sizes.
 
-
+//figs//
+    The figs folder holds two example figures created from the Spec_function_final and 1d_comparison scripts.
+    These two figures will be saved from the scripts into the figs folder.
 
 //Example_scripts//
     The example scripts folder houses many secondary scripts that are works in progress or are not particularly useful.
