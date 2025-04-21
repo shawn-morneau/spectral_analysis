@@ -5,7 +5,9 @@
 
 This project is all done within Python's JupyterLab environment.
 
-
+<div align="center">
+    <img src="figs/energy_density_polar_plot.png" width="600">
+</div>
 
 //Data//
     The data folder is used for housing downloaded data.
