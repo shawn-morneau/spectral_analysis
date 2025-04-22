@@ -2,6 +2,15 @@
 
 This project was developed within Python's JupyterLab environment as part of an independent study.
 
+<div align="center">
+    <img src="figs/energy_density_polar_plot.png" width="600">
+</div>
+
+The 1d spectrum 
+
+<div align="center">
+    <img src="figs/Ed_calc_vs_cdip.png" width="600">
+</div>
 ---
 
 ## Data
