@@ -11,7 +11,7 @@ The 1d spectrum
 <div align="center">
     <img src="figs/Ed_calc_vs_cdip.png" width="600">
 </div>
----
+
 
 ## Data
 
